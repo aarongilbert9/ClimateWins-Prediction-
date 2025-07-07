@@ -25,9 +25,9 @@ The MNIST dataset was used to train and test handwriting recognition models. Thi
 Provided by Career Foundry, this dataset labels "pleasant" days as 1 and "unpleasant" days as 0. It was used to evaluate different machine learning models for predicting pleasant weather based on weather observations.
 (This dataset is proprietary and not publicly available for download.)
 ### Key Results
-CNN Model for Visual Classification: Achieved a validation accuracy of 75% when classifying weather conditions from images.
+CNN Model for Visual Classification: Achieved a validation accuracy of 85% when classifying weather conditions from images.
 
-Random Forest Model: Improved the accuracy to 73% using hyperparameter tuning techniques like grid search.
+Random Forest Model: Improved the accuracy to 65.93% using hyperparameter tuning techniques like grid search.
 
 Time-Series Analysis: Demonstrated the capability to predict weather patterns using RNN, focusing on long-term climate trends.
 
